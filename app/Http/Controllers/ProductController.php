@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-//© 2020 Copyright: Tahu Coding
+//© 2020 Copyright: Yoga Rizki Pratama
 use File;
 use App\Product;
 use App\HistoryProduct;
@@ -163,5 +163,5 @@ class ProductController extends Controller
         
     }
 
-    //© 2020 Copyright: Tahu Coding
+    //© 2020 Copyright: Yoga Rizki Pratama
 }

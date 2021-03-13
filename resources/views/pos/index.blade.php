@@ -1,5 +1,5 @@
 @extends('layouts.app')
-<!-- © 2020 Copyright: Tahu Coding -->
+<!-- © 2020 Copyright: Yoga Rizki Pratama -->
 @section('content')
 <div class="container-fluid">
     <div class="row justify-content-center">
@@ -236,7 +236,7 @@
         </div>
     </div>
     @endsection
-    <!-- © 2020 Copyright: Tahu Coding -->
+    <!-- © 2020 Copyright: Yoga Rizki Pratama -->
     <!-- Ini error harusnya bisa dinamis ambil value dari controller tp agar cepet ya biar aja gini silahkan modifikasi  -->
     @push('script')
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
@@ -261,7 +261,7 @@
     @if(Session::has('success'))
     <script>
         toastr.success(
-            'Transaksi berhasil | Thank Your from Tahu Coding'
+            'Transaksi berhasil!'
         )
 
     </script>
@@ -376,5 +376,5 @@
         }
 
     </style>
-    <!-- © 2020 Copyright: Tahu Coding -->
+    <!-- © 2020 Copyright: Yoga Rizki Pratama -->
     @endpush

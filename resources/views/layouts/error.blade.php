@@ -6,4 +6,4 @@
 @endforeach
 @endif
 
-<!-- © 2020 Copyright: Tahu Coding -->
+<!-- © 2020 Copyright: Yoga Rizki Pratama -->

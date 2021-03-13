@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-//© 2020 Copyright: Tahu Coding
+//© 2020 Copyright: Yoga Rizki Pratama
 use Illuminate\Http\Request;
 use App\Product;
 use App\HistoryProduct;
@@ -186,7 +186,7 @@ class TransactionController extends Controller
             \Cart::session(Auth()->id())->clear();
 
             DB::commit();        
-            return redirect()->back()->with('success','Transaksi Berhasil dilakukan Tahu Coding | Klik History untuk print');        
+            return redirect()->back()->with('success','Transaksi Berhasil dilakukan! | Klik History untuk print');        
             }catch(\Exeception $e){
             DB::rollback();
                 return redirect()->back()->with('errorTransaksi','jumlah pembayaran gak valid');        
@@ -252,4 +252,4 @@ class TransactionController extends Controller
 
     
 }
-//© 2020 Copyright: Tahu Coding
+//© 2020 Copyright: Yoga Rizki Pratama

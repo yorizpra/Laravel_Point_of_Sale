@@ -1,7 +1,7 @@
 <?php
 
 namespace App;
-//© 2020 Copyright: Tahu Coding
+//© 2020 Copyright: Yoga Rizki Pratama
 use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;

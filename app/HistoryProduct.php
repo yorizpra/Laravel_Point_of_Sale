@@ -1,5 +1,5 @@
 <?php
-//© 2020 Copyright: Tahu Coding
+//© 2020 Copyright: Yoga Rizki Pratama
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;

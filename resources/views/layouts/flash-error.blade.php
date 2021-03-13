@@ -4,4 +4,4 @@
     <span aria-hidden="true">&times;</span>
   </button>
 </div>
-<!-- © 2020 Copyright: Tahu Coding -->
+<!-- © 2020 Copyright: Yoga Rizki Pratama -->

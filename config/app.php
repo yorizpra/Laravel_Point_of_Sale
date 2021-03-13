@@ -125,19 +125,19 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Autoloaded Service Providers © 2020 Copyright: Tahu Coding
+    | Autoloaded Service Providers © 2020 Copyright: Yoga Rizki Pratama
     |--------------------------------------------------------------------------
     |
     | The service providers listed here will be automatically loaded on the
     | request to your application. Feel free to add your own services to
-    | this array to grant expanded functionality to your applications. © 2020 Copyright: Tahu Coding
+    | this array to grant expanded functionality to your applications. © 2020 Copyright: Yoga Rizki Pratama
     |
     */
 
     'providers' => [
 
         /*
-         * Laravel Framework Service Providers... © 2020 Copyright: Tahu Coding
+         * Laravel Framework Service Providers... © 2020 Copyright: Yoga Rizki Pratama
          */
         Illuminate\Auth\AuthServiceProvider::class,
         Illuminate\Broadcasting\BroadcastServiceProvider::class,
@@ -166,7 +166,7 @@ return [
 
 
         /*
-         * Package Service Providers... © 2020 Copyright: Tahu Coding
+         * Package Service Providers... © 2020 Copyright: Yoga Rizki Pratama
          */
 
         /*
@@ -187,7 +187,7 @@ return [
     |
     | This array of class aliases will be registered when this application
     | is started. However, feel free to register as many as you wish as
-    | the aliases are "lazy" loaded so they don't hinder performance. © 2020 Copyright: Tahu Coding
+    | the aliases are "lazy" loaded so they don't hinder performance. © 2020 Copyright: Yoga Rizki Pratama
     |
     */
 

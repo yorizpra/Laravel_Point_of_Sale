@@ -1,5 +1,5 @@
 @extends('layouts.app')
-<!-- © 2020 Copyright: Tahu Coding -->
+<!-- © 2020 Copyright: Yoga Rizki Pratama -->
 @section('content')
 <div class="container">
     <div class="row justify-content-center">
@@ -23,4 +23,4 @@
     </div>
 </div>
 @endsection
-<!-- © 2020 Copyright: Tahu Coding -->
+<!-- © 2020 Copyright: Yoga Rizki Pratama -->
